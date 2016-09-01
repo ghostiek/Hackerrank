@@ -27,7 +27,7 @@ class Solution {
     
     public static BigInteger Factorial(int n)
     {
-    if (n == 0)//The condition that limites the method for calling itself
+    if (n == 0)
         return 1;
     return n * Factorial(n - 1);
     }
