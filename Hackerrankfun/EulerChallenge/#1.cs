@@ -5,6 +5,7 @@ using System.IO;
 class Solution
 {
 // https://www.hackerrank.com/contests/projecteuler/challenges/euler001
+// Note discussion was of an immense help to solve this faster
     static void Main(String[] args)
     {
         // Test cases
